@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0079-word-search](https://github.com/SwetabhSuman-Code/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SwetabhSuman-Code/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwetabhSuman-Code/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SwetabhSuman-Code/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Binary Search
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0032-longest-valid-parentheses](https://github.com/SwetabhSuman-Code/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SwetabhSuman-Code/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/SwetabhSuman-Code/LeetCode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SwetabhSuman-Code/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SwetabhSuman-Code/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SwetabhSuman-Code/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Simulation
 |  |
 | ------- |
